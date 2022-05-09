@@ -219,6 +219,6 @@ public class WeatherCSV {
 
     public static void main(String[] args) {
         WeatherCSV test = new WeatherCSV();
-        test.testfileWithHottestTemperature();
+        test.testLowestHumidityInManyFiles();
     }    
 }
